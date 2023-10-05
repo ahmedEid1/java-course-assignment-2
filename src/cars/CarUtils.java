@@ -17,9 +17,7 @@ public class CarUtils {
         // a) a list of cars of a given brand
         Predicate<Car> brandPredicate = car -> car.getMake().equals(carBrand);
 
-        return Arrays.stream(cars)
-                .filter(brandPredicate)
-                .toArray(Car[]::new);
+        return getFilteredCars(cars, brandPredicate);
     }
 
     public static Car[] filterByModelAndYearsOfUse(Car[] cars, CarModel carModel, int minYearsOfUse) {

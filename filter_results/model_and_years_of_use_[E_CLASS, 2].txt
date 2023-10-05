@@ -1,0 +1,7 @@
+{ id: 9, make: AUDI, model: E_CLASS, year: 2020, color: GREEN, price: 14439.14, registrationNumber: BMW_A6_8170 }
+{ id: 10, make: MERCEDES, model: E_CLASS, year: 2006, color: PINK, price: 45982.88, registrationNumber: AUDI_X5_3448 }
+{ id: 13, make: BMW, model: E_CLASS, year: 2020, color: YELLOW, price: 49351.70, registrationNumber: BMW_C_CLASS_4758 }
+{ id: 23, make: AUDI, model: E_CLASS, year: 2005, color: GREY, price: 21365.51, registrationNumber: BMW_S_CLASS_402 }
+{ id: 34, make: BMW, model: E_CLASS, year: 2009, color: WHITE, price: 63129.53, registrationNumber: AUDI_A7_2313 }
+{ id: 41, make: AUDI, model: E_CLASS, year: 2018, color: ORANGE, price: 57272.84, registrationNumber: MERCEDES_E_CLASS_2604 }
+{ id: 45, make: AUDI, model: E_CLASS, year: 2019, color: ORANGE, price: 4785.56, registrationNumber: AUDI_X5_4082 }

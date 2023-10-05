@@ -1,0 +1,1 @@
+{ id: 32, make: MERCEDES, model: S_CLASS, year: 2015, color: BLACK, price: 25787.72, registrationNumber: MERCEDES_E_CLASS_9060 }
